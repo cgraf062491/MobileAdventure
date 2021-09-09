@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Dummy/_Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
